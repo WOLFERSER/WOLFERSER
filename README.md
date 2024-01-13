@@ -8,11 +8,11 @@
 - 🔭 I’m currently working on **weather station on esp8266 with a website**
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **discord: @wolferser telegram: @wolferse_r**
+- 📫 How to reach me **dimamoskin531@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/WOLFERSER?tab=repositories**
 
 <div> <a href="https://github.com/WOLFERSER" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:discord: @wolferser telegram: @wolferse_r"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:dimamoskin531@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
